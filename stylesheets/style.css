@@ -1,0 +1,157 @@
+#head {
+  width: 100%;
+  background-color: white;
+  height : 100px;
+}
+#logo {
+  margin-top: 25px;
+  margin-left: 120px;
+  width: 250px;
+}
+.menu {
+  font-family: Aharoni 나눔바른고딕OTF;
+  color: black;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 15px;
+
+}
+#main_home {
+  width: 100%;
+  height: 800px;
+}
+#main_photo {
+  width: 100%
+}
+a {
+  text-decoration: none;
+}
+#title01 {
+  height: 55px;
+  width: 250px;
+  text-align: center;
+  margin-top: 50px;
+  margin-left: 150px;
+
+}
+#border {
+  width: 100%;
+  height: 20px;
+  background-color: #5D5D5D;
+}
+#table_image{
+  height: 250px;
+  border: 1px solid black;
+}
+#table {
+  margin-left: 100px;
+  margin-top: 25px;
+}
+.table_image01 {
+  width: 250px;
+  border:  solid black;
+}
+#table_info {
+  height: 50px;
+  border: 1px solid black;
+}
+.table_info01 {
+  width: 250px;
+    border: solid black;
+    text-align: center;
+}
+.juice_name {
+  font-size: 18px;
+  font-family: 나눔고딕;
+  font-weight: bold;
+  margin-top: 10px;
+}
+.juice_price{
+  font-size: 16px;
+  font-family: 나눔바른고딕OTF;
+  font-weight: bold;
+  color: #4374D9;
+  margin-top: -10px;
+}
+.border_dash {
+  border:5px dashed black;
+  border-color: #5D5D5D;
+  margin-top: 40px;
+}
+#title02 {
+  margin-top: 50px;
+}
+#title03 {
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 나눔바른고딕OTF;
+  text-align: center;
+  color: #6799FF;
+}
+#border_side {
+  border:  1px solid #4374D9;
+  height: 150px;
+  width: 5px;
+  margin-left: 150px;
+  background-color: #4374D9;
+}
+#step01 {
+  margin-left: 180px;
+  margin-top: -160px;
+}
+.step01_info {
+  font-family: 나눔바른고딕OTF;
+  font-size: 15px;
+  margin-top: 5px;
+}
+#step01_tr {
+  background-color: #B2CCFF;
+  height: 100px;
+}
+.step01_td {
+  background-color: #D9E5FF;
+  width:75px;
+  border-radius: 5px;
+  font-size: 25px;
+  font-family: 나눔바른고딕OTF;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+#step01_table {
+  margin-left: 500px;
+  margin-top: -130px;
+}
+#border_side02 {
+  border:  1px solid #4374D9;
+  height: 150px;
+  width: 5px;
+  margin-left: 150px;
+  background-color: #4374D9;
+  margin-top: 200px;
+}
+#step02 {
+  margin-left: 180px;
+  margin-top: -160px;
+
+}
+.step02_info {
+  font-family: 나눔바른고딕OTF;
+  font-size: 15px;
+  margin-top: 5px;
+}
+#step02_size {
+  
+  height: 200px;
+  width: 900px;
+  margin-left: 400px;
+  margin-top: -200px;
+}
+#small {
+  height: 150px;
+  margin-left: 250px;
+}
+#large {
+  height: 200px;
+  margin-left: 200px;
+}
