@@ -141,7 +141,7 @@ a {
   margin-top: 5px;
 }
 #step02_size {
-  
+
   height: 200px;
   width: 900px;
   margin-left: 400px;
@@ -154,4 +154,23 @@ a {
 #large {
   height: 200px;
   margin-left: 200px;
+}
+#step03_table {
+  margin-left: 600px;
+  margin-top: -130px;
+}
+#step03_messege01 {
+  border: 3px solid #0054FF;
+  height: 50px;
+  width: 50px;
+  margin-left:  700px;
+  margin-top: 20px;
+}
+#step03_messege02 {
+  font-size: 25px;
+  font-family: 나눔바른고딕OTF;
+  color: #6799FF;
+  margin-left: 780px;
+  margin-top: -40px;
+
 }
