@@ -174,3 +174,42 @@ a {
   margin-top: -40px;
 
 }
+.step04_info {
+  font-family: 나눔바른고딕OTF;
+  font-size: 15px;
+  color: #BDBDBD;
+}
+#step04_table {
+  margin-left: 600px;
+  margin-top: -200px;
+}
+#step04_messege01 {
+  border: 3px solid #0054FF;
+  height: 50px;
+  width: 50px;
+  margin-left:  820px;
+  margin-top: 20px;
+}
+#step04_messege02 {
+  font-size: 25px;
+  font-family: 나눔바른고딕OTF;
+  color: #6799FF;
+  margin-left: 880px;
+  margin-top: -40px;
+
+}
+#next_button {
+  background-color: #B2CCFF;
+  width: 290px;
+  height: 100px;
+  color : white;
+  font-family: 나눔바른고딕OTF;
+  font-size: 35px;
+  margin-top: 350px;
+  margin-left: 180px;
+}
+
+#calander {
+  margin-left: 550px;
+  margin-top: -400px;
+}
