@@ -1,3 +1,9 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+body {
+    font-family: "Nanum Gothic", sans-serif;
+}
+
 #head {
   width: 100%;
   background-color: white;
@@ -9,7 +15,6 @@
   width: 250px;
 }
 .menu {
-  font-family: Aharoni 나눔바른고딕OTF;
   color: black;
   font-weight: bold;
   font-size: 15px;
